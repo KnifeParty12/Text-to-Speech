@@ -1,0 +1,19 @@
+{
+  "name": "siri-inspired",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KnifeParty12/Text-to-Speech.git"
+  },
+  "author": "Nikhil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KnifeParty12/Text-to-Speech/issues"
+  },
+  "homepage": "https://github.com/KnifeParty12/Text-to-Speech#readme"
+}
