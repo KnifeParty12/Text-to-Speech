@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KnifeParty12/Text-to-Speech/issues"
   },
-  "homepage": "https://github.com/KnifeParty12/Text-to-Speech#readme"
+  "homepage": "https://KnifeParty12.github.io/Text-to-Speech",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
